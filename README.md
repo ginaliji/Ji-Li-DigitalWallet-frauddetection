@@ -9,7 +9,7 @@ However, to simplify the fraud detaction, we removed that row directly for testi
 
 We could also add features list below:
 
-1) When anyone makes a payment to another user, they'll be notified if the amount of transaction become a outlier. (> Q3 + 1.5*IQR* or > Q3 + 1.5*IQR*)
+1) When anyone makes a payment to another user, they'll be notified if the amount of transaction become a outlier. (> Q3 + 1.5*IQR*  or > Q3 + 3*IQR*)
 
 "unverified: This amount of transaction is too high. Are you sure you would like to proceed with this payment?"
 
